@@ -1,0 +1,9 @@
+[
+ "employees":[
+{ "firstname":"first 01", "lastname":"last 01", "department":"Accounts"},
+{ "firstname":"first 02", "lastname":"last 02", "department":"Accounts"},
+{ "firstname":"first 03", "lastname":"last 03", "department":"Accounts"},
+{ "firstname":"first 04", "lastname":"last 04", "department":"Accounts"}
+  
+  ]
+]
